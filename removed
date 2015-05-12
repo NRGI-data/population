@@ -1,0 +1,11 @@
+
+  "sources": [{
+    "name": "World Bank",
+    "web": "http://data.worldbank.org/indicator/SP.POP.TOTL"
+  }],
+    "licenses": [
+    {
+      "id": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
