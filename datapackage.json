@@ -20,7 +20,7 @@
           },
           {
             "id": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "id": "Value",
